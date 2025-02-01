@@ -1,0 +1,6 @@
+userId,movieId,tag,timestamp
+1,1,funny,1445714994
+1,2,great,1445714996
+2,1,pixar,1445714994
+2,3,romantic,1445714996
+3,2,action,1445714994
