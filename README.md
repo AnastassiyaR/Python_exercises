@@ -1,2 +1,2 @@
 # Python exercises🐍
-Python exercises from subject taken in the university
+Python exercises from the subject taken in the university
